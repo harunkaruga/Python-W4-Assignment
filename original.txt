@@ -1,0 +1,4 @@
+Hello world
+This is my first test file.
+Python makes programming fun!
+We are learning file handling today.
